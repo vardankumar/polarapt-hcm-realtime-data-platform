@@ -1,0 +1,81 @@
+{
+  "LanguageCode": "EN",
+  "SearchParameters": {},
+  "SearchResult": {
+    "SearchResultCount": 5,
+    "SearchResultCountAll": 5,
+    "SearchResultItems": [
+      {
+        "MatchedObjectId": "900000001",
+        "MatchedObjectDescriptor": {
+          "PositionID": "MOCK-DATA-001",
+          "PositionTitle": "Data Engineer (MOCK)",
+          "PositionURI": "https://www.usajobs.gov/job/900000001",
+          "ApplyURI": ["https://www.usajobs.gov/job/900000001?PostingChannelID=RESTAPI"],
+          "PositionLocationDisplay": "Washington, District of Columbia",
+          "PositionLocation": [{"LocationName": "Washington, District of Columbia", "CountryCode": "United States", "CountrySubDivisionCode": "District of Columbia", "CityName": "Washington, District of Columbia", "Longitude": -77.032, "Latitude": 38.89}],
+          "OrganizationName": "Mock Agency of Data",
+          "DepartmentName": "Department of Mock Fixtures",
+          "PositionRemuneration": [{"MinimumRange": "117962.0", "MaximumRange": "153354.0", "RateIntervalCode": "PA", "Description": "Per Year"}],
+          "PublicationStartDate": "2026-10-20T00:00:00.0000",
+          "ApplicationCloseDate": "2026-11-20T23:59:59.9970"
+        }
+      },
+      {
+        "MatchedObjectId": "900000002",
+        "MatchedObjectDescriptor": {
+          "PositionID": "MOCK-HOURLY-002",
+          "PositionTitle": "Maintenance Worker (MOCK, hourly pay)",
+          "PositionURI": "https://www.usajobs.gov/job/900000002",
+          "ApplyURI": [],
+          "PositionLocationDisplay": "Multiple Locations",
+          "PositionLocation": [
+            {"LocationName": "Denver, Colorado", "CountryCode": "United States", "CountrySubDivisionCode": "Colorado", "CityName": "Denver, Colorado"},
+            {"LocationName": "Austin, Texas", "CountryCode": "United States", "CountrySubDivisionCode": "Texas", "CityName": "Austin, Texas"}
+          ],
+          "OrganizationName": "Mock Facilities Office",
+          "DepartmentName": "Department of Mock Fixtures",
+          "PositionRemuneration": [{"MinimumRange": "24.50", "MaximumRange": "28.60", "RateIntervalCode": "PH", "Description": "Per Hour"}],
+          "PublicationStartDate": "2026-10-21T00:00:00.0000",
+          "ApplicationCloseDate": "2026-10-28T23:59:59.9970"
+        }
+      },
+      {
+        "MatchedObjectId": "900000003",
+        "MatchedObjectDescriptor": {
+          "PositionID": "MOCK-NOPAY-003",
+          "PositionTitle": "Volunteer Coordinator (MOCK, no remuneration)",
+          "PositionURI": "https://www.usajobs.gov/job/900000003",
+          "PositionLocationDisplay": "Anywhere in the U.S. (remote job)",
+          "PositionLocation": [],
+          "OrganizationName": "Mock Outreach",
+          "DepartmentName": "Department of Mock Fixtures",
+          "PositionRemuneration": [],
+          "PublicationStartDate": "2026-10-22T00:00:00.0000",
+          "ApplicationCloseDate": "2026-12-01T23:59:59.9970"
+        }
+      },
+      {
+        "MatchedObjectId": "900000004",
+        "MatchedObjectDescriptor": {
+          "PositionID": "MOCK-WC-004",
+          "PositionTitle": "Student Trainee (MOCK, without compensation)",
+          "PositionURI": "https://www.usajobs.gov/job/900000004",
+          "PositionLocationDisplay": "Norfolk, Virginia",
+          "PositionLocation": [{"LocationName": "Norfolk, Virginia", "CountryCode": "United States", "CountrySubDivisionCode": "Virginia", "CityName": "Norfolk, Virginia"}],
+          "OrganizationName": "Mock Naval Office",
+          "DepartmentName": "Department of Mock Fixtures",
+          "PositionRemuneration": [{"MinimumRange": "0", "MaximumRange": "0", "RateIntervalCode": "WC", "Description": "Without Compensation"}],
+          "PublicationStartDate": "2026-10-23T00:00:00.0000",
+          "ApplicationCloseDate": "2026-11-05T23:59:59.9970"
+        }
+      },
+      {
+        "MatchedObjectId": "",
+        "MatchedObjectDescriptor": {
+          "PositionTitle": "Broken row (MOCK, missing control number - must be dropped by Q2)"
+        }
+      }
+    ]
+  }
+}

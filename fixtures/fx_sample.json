@@ -1,0 +1,7 @@
+{
+  "disclaimer": "MOCK FIXTURE - illustrative values, not live rates",
+  "license": "https://openexchangerates.org/license",
+  "timestamp": 1761318000,
+  "base": "USD",
+  "rates": {"AED": 3.6725, "EUR": 0.8612, "GBP": 0.7498, "INR": 88.04, "PKR": 281.35, "SAR": 3.7505}
+}
